@@ -1,5 +1,5 @@
 ![liuyujie0136's github stats](https://github-readme-stats.vercel.app/api?username=liuyujie0136&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyujie0136&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyujie0136)
 
 ### Hi there 👋
 
