@@ -1,13 +1,8 @@
-![liuyujie0136's github stats](https://github-readme-stats.vercel.app/api?username=liuyujie0136&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyujie0136&hide=html&layout=compact&langs_count=10)
+[![liuyujie0136's github stats](https://github-readme-stats.vercel.app/api?username=liuyujie0136&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyujie0136&hide=html&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Hi there 👋
-
-
-**liuyujie0136/liuyujie0136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<!--
+**liuyujie0136/liuyujie0136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+-->
