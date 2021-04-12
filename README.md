@@ -1,9 +1,10 @@
 ![liuyujie0136's github stats](https://github-readme-stats.vercel.app/api?username=liuyujie0136&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyujie0136)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyujie0136&hide=html&layout=compact&langs_count=10)
+
 
 ### Hi there 👋
 
-<!--
+
 **liuyujie0136/liuyujie0136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
