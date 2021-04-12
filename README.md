@@ -1,4 +1,4 @@
-[![liuyujie0136's github stats](https://github-readme-stats.vercel.app/api?username=liuyujie0136&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![liuyujie0136's github stats](https://github-readme-stats.vercel.app/api?username=liuyujie0136&show_icons=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyujie0136&hide=html&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
