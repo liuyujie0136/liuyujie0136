@@ -5,7 +5,7 @@
 ### Hi there 👋
 I am liuyujie0136, contact me via liuyujiekindle@163.com
 
-**Note:** R package `tinyfuncr` is currently unavailable due to compatibility problems caused by using many other packages. Modified package will be online soon, and some functions used in low frequency will be removed.
+**Note:** R package `tinyfuncr` is available NOW !
 
 <!--
 - 🔭 I’m currently working on ...
