@@ -5,8 +5,6 @@
 ### Hi there 👋
 I am liuyujie0136, contact me via liuyujiekindle@163.com
 
-**Note:** R package `tinyfuncr` is available NOW !
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
